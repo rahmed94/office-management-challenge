@@ -1,10 +1,10 @@
 'use strict';
 
 describe('Meeting room', () => {
-  let meetingRoom;
+  let meetingRoom = new MeetingRoom('Ramadan');
 
   beforeEach( () => {
-    meetingRoom = new MeetingRoom();
+    meetingRoom = new MeetingRoom('Ramadan');
   });
 
   it('checks if the room is available', () => {

@@ -1,8 +1,9 @@
 'use strict';
 
 class MeetingRoom {
-  constructor() {
+  constructor(name) {
     this.available = true;
+    this.name = name
   };
 
   isAvailable() {

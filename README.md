@@ -31,6 +31,7 @@ I would like to list all the meeting rooms in the office
 As a staff member
 So that I can see where to have my meeting
 I would like to be able to see a list of available rooms in the office
+
 Stretch user stories
 
 As an office manager
